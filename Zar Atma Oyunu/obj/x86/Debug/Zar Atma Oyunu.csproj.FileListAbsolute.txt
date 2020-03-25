@@ -1,0 +1,42 @@
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Form1.resources
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Properties.Resources.resources
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.exe
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.pdb
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.exe
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.pdb
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v1.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.exe
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v1.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.pdb
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v1.0\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.exe
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v1.0\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.pdb
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v1.0\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Form1.resources
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v1.0\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Properties.Resources.resources
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v1.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v2.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.exe
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v2.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.pdb
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v2.0\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.exe
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v2.0\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.pdb
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v2.0\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Form1.resources
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v2.0\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Properties.Resources.resources
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v2.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v4.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.exe
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v4.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.pdb
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v4.0\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.exe
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v4.0\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.pdb
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v4.0\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Form1.resources
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v4.0\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Properties.Resources.resources
+C:\Users\murat\Desktop\ \C#\Zar Atma Oyunu v4.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.csproj.GenerateResource.Cache
+E:\1 Github\2 Akademi\Form\98 Kod-H CSharp Zar Atma Oyunu V4.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.exe
+E:\1 Github\2 Akademi\Form\98 Kod-H CSharp Zar Atma Oyunu V4.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.pdb
+E:\1 Github\2 Akademi\Form\98 Kod-H CSharp Zar Atma Oyunu V4.0\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.exe
+E:\1 Github\2 Akademi\Form\98 Kod-H CSharp Zar Atma Oyunu V4.0\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.pdb
+E:\1 Github\2 Akademi\Form\98 Kod-H CSharp Zar Atma Oyunu V4.0\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Form1.resources
+E:\1 Github\2 Akademi\Form\98 Kod-H CSharp Zar Atma Oyunu V4.0\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Properties.Resources.resources
+E:\1 Github\2 Akademi\Form\98 Kod-H CSharp Zar Atma Oyunu V4.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\79 Zar Atma Oyunu V4.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.exe
+E:\03 - Yazılım\05 - Büyük Projeler\79 Zar Atma Oyunu V4.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\79 Zar Atma Oyunu V4.0\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.exe
+E:\03 - Yazılım\05 - Büyük Projeler\79 Zar Atma Oyunu V4.0\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\79 Zar Atma Oyunu V4.0\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\79 Zar Atma Oyunu V4.0\Zar Atma Oyunu\obj\x86\Debug\Zar_Atma_Oyunu.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\79 Zar Atma Oyunu V4.0\Zar Atma Oyunu\obj\x86\Debug\Zar Atma Oyunu.csproj.GenerateResource.Cache
